@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+node_modules
+git
+.git
+.vscode
+.vs_code
+vscode
